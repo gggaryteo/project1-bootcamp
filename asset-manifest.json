@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.8819b436.css",
-    "main.js": "/static/js/main.662818a6.js",
-    "static/media/christmasmedley.mp3": "/static/media/christmasmedley.c6631061d3791986dde1.mp3",
-    "static/media/background.jpg": "/static/media/background.2fdeac6cdd6818a4748e.jpg",
-    "index.html": "/index.html",
-    "main.8819b436.css.map": "/static/css/main.8819b436.css.map",
-    "main.662818a6.js.map": "/static/js/main.662818a6.js.map"
+    "main.css": "/project1-bootcamp/static/css/main.990322a1.css",
+    "main.js": "/project1-bootcamp/static/js/main.bcfe2973.js",
+    "static/media/christmasmedley.mp3": "/project1-bootcamp/static/media/christmasmedley.c6631061d3791986dde1.mp3",
+    "static/media/background.jpg": "/project1-bootcamp/static/media/background.2fdeac6cdd6818a4748e.jpg",
+    "index.html": "/project1-bootcamp/index.html",
+    "main.990322a1.css.map": "/project1-bootcamp/static/css/main.990322a1.css.map",
+    "main.bcfe2973.js.map": "/project1-bootcamp/static/js/main.bcfe2973.js.map"
   },
   "entrypoints": [
-    "static/css/main.8819b436.css",
-    "static/js/main.662818a6.js"
+    "static/css/main.990322a1.css",
+    "static/js/main.bcfe2973.js"
   ]
 }

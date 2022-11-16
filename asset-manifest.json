@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/project1-bootcamp/static/css/main.990322a1.css",
-    "main.js": "/project1-bootcamp/static/js/main.c6e89284.js",
+    "main.js": "/project1-bootcamp/static/js/main.21f5e15f.js",
     "static/media/christmasmedley.mp3": "/project1-bootcamp/static/media/christmasmedley.c6631061d3791986dde1.mp3",
     "static/media/background.jpg": "/project1-bootcamp/static/media/background.2fdeac6cdd6818a4748e.jpg",
     "index.html": "/project1-bootcamp/index.html",
     "main.990322a1.css.map": "/project1-bootcamp/static/css/main.990322a1.css.map",
-    "main.c6e89284.js.map": "/project1-bootcamp/static/js/main.c6e89284.js.map"
+    "main.21f5e15f.js.map": "/project1-bootcamp/static/js/main.21f5e15f.js.map"
   },
   "entrypoints": [
     "static/css/main.990322a1.css",
-    "static/js/main.c6e89284.js"
+    "static/js/main.21f5e15f.js"
   ]
 }
